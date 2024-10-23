@@ -1,0 +1,25 @@
+body{
+    background:crimson;
+    color: black;
+    margin-top: 50px;
+}
+p{
+    color: Yellow;
+}
+x{
+    color: Black;
+}
+.noun{
+    font-weight: 900;
+    color: red;
+}
+p.noun{
+    color:white;
+}
+x.noun{
+    color:white;
+}
+img {
+  padding: 25px;
+  width: 500px;
+}
